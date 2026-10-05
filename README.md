@@ -2,6 +2,7 @@
 
 > **"All the Uplifting News That Inspires the World"**  
 > An autonomous, vintage-inspired digital broadsheet web application that curates, processes, and archives positive global news daily.
+> ### 🌐 **[View Live Application →](https://humanity-highlights.vercel.app/)**
 
 [![Next.js](https://img.shields.io/badge/Next.js-App_Router-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
